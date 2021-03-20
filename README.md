@@ -46,6 +46,7 @@ function HelloWorld(arg)
 First Header | Second Header
 -------------|--------------
 Content from cell 1 | Content from cell 2
+Jason | Seger
 
 
 Das wars 🤣
