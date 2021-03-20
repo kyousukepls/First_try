@@ -1,19 +1,19 @@
 # First_try
 ## Das ist eine Demonstrations-Datei
 
-######To-Do in Software-Architektur
+### To-Do in Software-Architektur
 
 * Java lernen
 * Mit umgehen können
 * Besser programmieren können
 
-######Wichtige Markdowns
+###### Wichtige Markdowns
 
-######Inline Code
+###### Inline Code
 
 I think you should use an '<addr>' element here instead.
   
-######Syntax highlighting
+###### Syntax highlighting
 
 ```javascript
 function HelloWorld(arg)
@@ -34,11 +34,11 @@ function HelloWorld(arg)
 }
 ```
 
-######Task Lists
+###### Task Lists
 
--[x] Erste Task
--[] Zweite Task
--[] Dritte Task
+- [x] Erste Task
+- [] Zweite Task
+- [] Dritte Task
 
 ######Tabellen
 
