@@ -37,10 +37,9 @@ function HelloWorld(arg)
 ###### Task Lists
 
 - [x] Erste Task
-- [] Zweite Task
-- [] Dritte Task
+- [ ] this is an incomplete item
 
-######Tabellen
+###### Tabellen
 
 First Header | Second Header
 -------------|--------------
