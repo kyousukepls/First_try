@@ -7,13 +7,13 @@
 * Mit umgehen können
 * Besser programmieren können
 
-###### Wichtige Markdowns
+### Wichtige Markdowns
 
-###### Inline Code
+### Inline Code
 
 I think you should use an '<addr>' element here instead.
   
-###### Syntax highlighting
+### Syntax highlighting
 
 ```javascript
 function HelloWorld(arg)
@@ -34,12 +34,14 @@ function HelloWorld(arg)
 }
 ```
 
-###### Task Lists
+### Task Lists
 
-- [x] Erste Task
-- [ ] this is an incomplete item
+- [x] Github-Repository anlegen
+- [x] git-Markdown lernen
+- [ ] Mein erster Push
 
-###### Tabellen
+
+### Tabellen
 
 First Header | Second Header
 -------------|--------------
